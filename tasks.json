@@ -1,0 +1,23 @@
+[
+  {
+    "task": "create a python project",
+    "done": true,
+    "due": "2025-08-07",
+    "priority": "Medium",
+    "created_at": "2025-08-07 11:44:50.653373"
+  },
+  {
+    "task": "third task",
+    "done": true,
+    "due": "2025-08-10",
+    "priority": "Low",
+    "created_at": "2025-08-07 11:47:55.054548"
+  },
+  {
+    "task": "new task added",
+    "done": false,
+    "due": "2025-08-18",
+    "priority": "High",
+    "created_at": "2025-08-07 11:48:07.645393"
+  }
+]
